@@ -1,0 +1,75 @@
+body {
+	background: url("http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/8/11/1407771976384/Protest-in-London-against-014.jpg");
+	background-size: cover;
+	text-align: center;
+}
+
+h1{color:white;
+font-family: Helvetica,serif;
+text-align: center;
+font-size: 70px;
+line-height: 30px;}
+p{}
+#slogan{font-style: italic;
+text-align: center;
+font-size: 30px;
+color:rgba(17,30,40,0.9);
+background:white;
+font-family: Helvetica, serif;
+}
+
+#block1{
+display:inline-block;
+width:45%;
+height:150px;
+color:black;
+font-family:Helvetica;
+padding:10px;
+background-color:rgba(255,255,255,0.7);
+font-size: 25px;
+margin-top:100px;
+margin-right: 20px;
+margin-left:20px;
+ }
+#block2{
+display:inline-block;
+width:45%;
+height:150px;
+color:black;
+padding:10px;
+background-color:rgba(255,255,255,0.7);
+font-family:Helvetica;
+font-size: 25px;
+margin-top:100px;
+margin-right: 20px;
+margin-left:20px;
+}
+
+
+
+hr{width:50%;
+position:center;}
+ul{
+	color:black;
+	text-align: center;
+	margin-top: 40px;
+}
+
+li
+{color:black;
+	display:inline;
+	font-family: Helvetica;
+	text-align: center;
+	font-size: 30px;
+	background-color:rgba(255,255,255,0.7);
+	padding:10px;
+}
+a{text-align:center;
+color:red;
+font-size: 30px;
+background:white;
+font-family: Helvetica;
+margin-top: 50px;
+padding:10px;
+display:inline-block;
+}
